@@ -29,6 +29,7 @@ Resumo dos encontros do grupo Machine Learning Brasília.
 
 
 **Instalação do ambiente de trabalho**
+![Aula 1 GCP](https://github.com/taniamaki/Deep-Learning-Fast.ai-part-1/blob/master/Imagens%20DL/Aula1_GCP.png)
 
 
 **Ferramentas do cientista de dados**
